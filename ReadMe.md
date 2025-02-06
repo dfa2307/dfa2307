@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou estudante de Front-End<br>HTML e CSS<br>JavaScript
+Desenvolvedor Front-End<br>Full Stack em desenvolvimento🎓<br>HTML5<br>CSS3<br>JAVASCRIPT
+
 
 
 ## 🌐 Socials:
