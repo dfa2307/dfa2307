@@ -1,6 +1,6 @@
 ## Me chamo Daniel Francisco de Almeida! 🖐
 
-<div>👩‍💻 Sou desenvolvedor Front-end </div>
+<div>👩‍💻 Dev Back-End </div>
 <div>👨‍🎓 Atualmente estudo Desenvolvimento Full-Stack na PUC Minas</div>
 
 ### SKILLS:
