@@ -1,15 +1,18 @@
 ## Me chamo Daniel Francisco de Almeida! 🖐
 
-<div>👩‍💻 Dev Back-End </div>
-<div>👨‍🎓 Atualmente estudo Desenvolvimento Full-Stack na PUC Minas</div>
+<div>👩‍💻 Dev Back-End Java</div>
 
 ### SKILLS:
 
+## Front-End:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Back_End:
+![Java](https://img.shields.io/badge/Java?style=for-the-badge&color=%23ffffff)
+
 
 
 ### CONTATO:
