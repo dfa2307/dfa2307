@@ -11,7 +11,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Back_End:
-![Java](https://img.shields.io/badge/Java?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 
