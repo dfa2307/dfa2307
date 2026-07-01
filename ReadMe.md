@@ -1,6 +1,6 @@
 ## Me chamo Daniel Francisco de Almeida! 🖐
 
-<div>👩‍💻 Dev Back-End Java</div>
+**Junior Software Developer**  
 
 ### SKILLS:
 
@@ -11,7 +11,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Back_End:
-![Java](https://img.shields.io/badge/Java?style=for-the-badge&color=%23ffffff)
+![Java](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=java)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 
 
