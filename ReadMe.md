@@ -11,7 +11,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Back_End:
-![Java](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 
@@ -21,5 +21,3 @@
 <a href="https://www.linkedin.com/in/daniel-francisco2307/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:daniel_francisco9118@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfa2307&show_icons=true&theme=radical)
