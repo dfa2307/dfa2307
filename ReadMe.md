@@ -22,7 +22,18 @@ Familiaridade com JavaScript, HTML, CSS e Tailwind CSS, auxiliando na integra√ß√
 
 ### CONTATO:
 
-<a href="https://www.linkedin.com/in/daniel-francisco2307/">[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)https://www.linkedin.com/in/daniel-francisco2307/</a>
+<a href="https://www.linkedin.com/in/daniel-francisco2307/" 
+   style="text-decoration:none; color:white;">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Linkedin">
+  https://www.linkedin.com/in/daniel-francisco2307/
+</a>
 
-<a href="mailto:dan.franciscoo@gmail.com">[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev)dan.franciscoo@gmail.com</a>
+<br>
+
+<a href="mailto:dan.franciscoo@gmail.com" 
+   style="text-decoration:none; color:white;">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
+  dan.franciscoo@gmail.com
+</a>
+
 
