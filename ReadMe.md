@@ -27,8 +27,6 @@ Familiaridade com JavaScript, HTML, CSS e Tailwind CSS, auxiliando na integra√ß√
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Linkedin">
 </a>
 
-<br>
-
 <a href="mailto:dan.franciscoo@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
 </a>
