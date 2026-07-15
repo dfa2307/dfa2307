@@ -24,12 +24,11 @@ Familiaridade com JavaScript, HTML, CSS e Tailwind CSS, auxiliando na integra√ß√
 
 <div>
   <a href="https://www.linkedin.com/in/daniel-francisco2307/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Linkedin">
-</a>
-
-<a href="mailto:dan.franciscoo@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
-</a>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Linkedin">
+  </a>
+  <a href="mailto:dan.franciscoo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
+  </a>
 </div>
 
 
