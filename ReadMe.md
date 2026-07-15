@@ -24,5 +24,5 @@ Familiaridade com JavaScript, HTML, CSS e Tailwind CSS, auxiliando na integra√ß√
 
 <a href="https://www.linkedin.com/in/daniel-francisco2307/">[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)</a>
 
-<a href="mailto:daniel_francisco9118@outlook.com">[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev)</a>
+<a href="mailto:dan.franciscoo@gmail.com">[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://skillicons.dev)</a>
 
